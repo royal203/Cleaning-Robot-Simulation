@@ -52,6 +52,9 @@ Agent:
 
 •Gradient Calculation: Compute gradients for each permutation using a single target value.
 
+<img width="1440" alt="Screenshot 2024-07-16 at 4 19 28 PM" src="https://github.com/user-attachments/assets/c0ca1aaf-e6f1-4831-aa57-fcd20c279379">
+
+
 # License
 
 This project is licensed under the Apache 2.0 open source license.
