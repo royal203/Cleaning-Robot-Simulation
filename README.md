@@ -55,6 +55,19 @@ Agent:
 <img width="1440" alt="Screenshot 2024-07-16 at 4 19 28 PM" src="https://github.com/user-attachments/assets/c0ca1aaf-e6f1-4831-aa57-fcd20c279379">
 
 
+# Modules Used
+
+•gym: For creating the reinforcement learning environment
+
+•numpy: For numerical operations
+
+•torch: For building and training neural networks
+
+•random: For random number generation
+
+•matplotlib: For rendering the environment (optional)
+
+
 # License
 
 This project is licensed under the Apache 2.0 open source license.
